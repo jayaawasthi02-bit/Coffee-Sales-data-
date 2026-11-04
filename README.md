@@ -14,11 +14,13 @@ Analysed city population and coffee consumers.
 
 Calculated average sales and rent per customer.
 
+Track changes in sales performance over time
+
 Evaluated monthly sales growth.
 
 Assessed market potential and city revenue contribution.
 
-## Tools & Skills
+## Tools & Technique
 
 Database: Microsoft SQL Server
 
@@ -26,23 +28,27 @@ SQL Concepts: Joins, CTEs, Subqueries, Aggregate Functions, Window Functions, DE
 
 ## Key Insights
 
-Identified top-performing products across different cities.
+Top-Performing Product: Cold Brew Coffee recorded the highest sales count, with 1,326 units sold across all cities.
 
-Evaluated city-wise sales performance and revenue contribution.
+City Revenue Analysis: Pune emerged as the highest revenue-generating city, contributing ₹12,58,290 in sales.
 
-Analysed monthly sales growth to understand business trends.
+Monthly Sales Trends: September 2023 recorded the highest monthly sales growth, while October 2024 experienced the largest decline.
 
-Compared customer spending and market potential across cities.
+Market Potential: Pune, Bangalore, and Chennai showed promising market potential based on population and coffee consumer data.
 
 ## Business Recommendations
 
-Prioritise high-demand products to optimise inventory.
+Based on the analysis, the following strategies can support business growth:
 
-Introduce targeted promotions to improve customer spending.
+Product Strategy: Focus on high-demand products and maintain sufficient inventory of best-selling items.
 
-Focus on cities with higher market potential for expansion.
+Marketing Strategy: Introduce targeted promotions in cities with strong customer demand.
 
-Monitor monthly sales trends to identify growth opportunities.
+Customer Strategy: Develop loyalty programs and promotional offers to increase average customer spending.
+
+Expansion Strategy: Prioritise cities with strong market potential and favourable business conditions.
+
+Revenue Strategy: Monitor monthly sales performance and identify opportunities to improve revenue in underperforming cities.
 
 ## Conclusion
 
