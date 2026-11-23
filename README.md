@@ -28,27 +28,27 @@ SQL Concepts: Joins, CTEs, Subqueries, Aggregate Functions, Window Functions, DE
 
 ## Key Insights
 
-Top-Performing Product: Cold Brew Coffee recorded the highest sales count, with 1,326 units sold across all cities.
+**Top-Performing Product**: **Cold Brew Coffee** recorded the highest sales count, with 1,326 units sold across all cities.
 
-City Revenue Analysis: Pune emerged as the highest revenue-generating city, contributing ₹12,58,290 in sales.
+**City Revenue Analysis**: **Pune** emerged as the highest revenue-generating city, contributing **₹12,58,290** in sales.
 
-Monthly Sales Trends: September 2023 recorded the highest monthly sales growth, while October 2024 experienced the largest decline.
+**Monthly Sales Trends**: **September 2023** recorded the highest monthly sales growth, while **October 2024** experienced the largest decline.
 
-Market Potential: Pune, Bangalore, and Chennai showed promising market potential based on population and coffee consumer data.
+**Market Potential**: **Pune, Bangalore, and Chennai** showed promising market potential based on population and coffee consumer data.
 
 ## Business Recommendations
 
 Based on the analysis, the following strategies can support business growth:
 
-Product Strategy: Focus on high-demand products and maintain sufficient inventory of best-selling items.
+**Product Strategy**: Focus on high-demand products and maintain sufficient inventory of best-selling items.
 
-Marketing Strategy: Introduce targeted promotions in cities with strong customer demand.
+**Marketing Strategy**: Introduce targeted promotions in cities with strong customer demand.
 
-Customer Strategy: Develop loyalty programs and promotional offers to increase average customer spending.
+**Customer Strategy**: Develop loyalty programs and promotional offers to increase average customer spending.
 
-Expansion Strategy: Prioritise cities with strong market potential and favourable business conditions.
+**Expansion Strategy**: Prioritise cities with strong market potential and favourable business conditions.
 
-Revenue Strategy: Monitor monthly sales performance and identify opportunities to improve revenue in underperforming cities.
+**Revenue Strategy**: Monitor monthly sales performance and identify opportunities to improve revenue in underperforming cities.
 
 ## Conclusion
 
